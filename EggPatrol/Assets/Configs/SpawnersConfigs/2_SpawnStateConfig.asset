@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e412531d0f274184ba3806c2d88e1cc8, type: 3}
+  m_Name: 2_SpawnStateConfig
+  m_EditorClassIdentifier: 
+  <ScoreIncreaseValue>k__BackingField: 0.85
+  <PatternSpawnConfigs>k__BackingField:
+  - {fileID: 11400000, guid: b7c0106a52791e346b6a38b63b17d5e5, type: 2}

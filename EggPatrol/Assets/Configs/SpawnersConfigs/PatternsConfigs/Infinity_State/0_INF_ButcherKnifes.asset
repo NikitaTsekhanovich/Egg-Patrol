@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1704c2867900504ea7589fd1d892b83, type: 3}
+  m_Name: 0_INF_ButcherKnifes
+  m_EditorClassIdentifier: 
+  <EntitySpawnConfigs>k__BackingField:
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 3
+    <IndexSpawn>k__BackingField: 1
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 3.25
+    <IndexSpawn>k__BackingField: 2
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 3.5
+    <IndexSpawn>k__BackingField: 3
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 3.75
+    <IndexSpawn>k__BackingField: 4
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 4
+    <IndexSpawn>k__BackingField: 5
+  - _entity: {fileID: 8441364550420661310, guid: fb769cacbfae23b45827f059d05420fb, type: 3}
+    <StartTime>k__BackingField: 4.25
+    <IndexSpawn>k__BackingField: 6
+  - _entity: {fileID: 8750516869524108458, guid: 3fc0ebc0b5fe2a943a85831944ebf6f2, type: 3}
+    <StartTime>k__BackingField: 4.5
+    <IndexSpawn>k__BackingField: 0
+  - _entity: {fileID: 8750516869524108458, guid: 3fc0ebc0b5fe2a943a85831944ebf6f2, type: 3}
+    <StartTime>k__BackingField: 4.5
+    <IndexSpawn>k__BackingField: 2

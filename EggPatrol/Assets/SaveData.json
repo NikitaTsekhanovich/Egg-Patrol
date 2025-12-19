@@ -1,0 +1,18 @@
+{
+  "MusicSaveData": {
+    "MusicState": false,
+    "SoundEffectsState": false
+  },
+  "StoreSaveData": {
+    "DestroyObjectCount": 3,
+    "LivesCount": 2,
+    "HasImmunity": 0
+  },
+  "PlayerSaveData": {
+    "EggsCount": 281,
+    "BestScore": 85
+  },
+  "PlayerGlobalData": {
+    "IsFirstLoad": false
+  }
+}
